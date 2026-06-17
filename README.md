@@ -1,4 +1,4 @@
-## ExplainableAITutorial
+## Explainable AI Tutorial
 A tutorial on Explainable Artificial Intelligence Techniques developed by Dr. Stephanie Kelley (https://www.stephaniekelleyresearch.com/) and Muhammad Uzair Tahir from the Sobey School of Business at Saint Mary's University, Halifax, Canada. The tutorial is set in the healthcare space and focuses on predicting heart disease. 
 
 ## Teaching Note
