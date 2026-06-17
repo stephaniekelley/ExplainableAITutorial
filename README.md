@@ -1,7 +1,11 @@
-# ExplainableAITutorial
-A tutorial on Explainable Artificial Intelligence Techniques developed by Dr. Stephanie Kelley (https://www.stephaniekelleyresearch.com/) and Muhammad Uzair Tahir from the Sobey School of Business at Saint Mary's University, Halifax, Canada. The tutorial is set in the healthcare space, predicting heart disease. 
+## ExplainableAITutorial
+A tutorial on Explainable Artificial Intelligence Techniques developed by Dr. Stephanie Kelley (https://www.stephaniekelleyresearch.com/) and Muhammad Uzair Tahir from the Sobey School of Business at Saint Mary's University, Halifax, Canada. The tutorial is set in the healthcare space and focuses on predicting heart disease. 
 
-Last Updated: May 2025
+## Teaching Note
+This tutorial is accompanied by a short teaching note on Explainable AI (XAI) designed for students, instructors, and practitioners. The note provides an overview of key XAI concepts, discusses common explanation approaches, and highlights important considerations for the responsible use of AI-supported decision-making.
+
+📄 **Teaching Note:** [Explainable AI Teaching Note](docs/Explainable_AI_Teaching_Note.pdf)
+Last Updated: June 2026
 
 Dataset details: Manu Siddhartha. (2020). Heart Disease Dataset (Comprehensive). IEEE Dataport. https://dx.doi.org/10.21227/dz4t-cm36
 Available at: https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive 
