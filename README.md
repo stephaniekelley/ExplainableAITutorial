@@ -4,7 +4,7 @@ A tutorial on Explainable Artificial Intelligence Techniques developed by Dr. St
 ## Teaching Note
 This tutorial is accompanied by a short teaching note on Explainable AI (XAI) designed for students, instructors, and practitioners. The note provides an overview of key XAI concepts, discusses common explanation approaches, and highlights important considerations for the responsible use of AI-supported decision-making.
 
-📄 **Teaching Note:** [Explainable AI Teaching Note](docs/Explainable_AI_Teaching_Note.pdf)
+📄 **Teaching Note:** [Explainable AI Teaching Note](docs/TeachingNote_ExplainableArtificialIntelligence_Kelley2026.pdf)
 Last Updated: June 2026
 
 Dataset details: Manu Siddhartha. (2020). Heart Disease Dataset (Comprehensive). IEEE Dataport. https://dx.doi.org/10.21227/dz4t-cm36
